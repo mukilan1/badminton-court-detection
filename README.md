@@ -7,6 +7,9 @@ A computer vision system for automatically detecting and isolating the focused b
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+![Uploading Screenshot From 2025-12-05 12-39-57.png…]()
+
+
 ## 🎯 Features
 
 - **Court Detection**: Automatically detects badminton court boundaries using:
