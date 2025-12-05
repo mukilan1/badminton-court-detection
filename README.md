@@ -7,8 +7,7 @@ A computer vision system for automatically detecting and isolating the focused b
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-![Uploading Screenshot From 2025-12-05 12-39-57.png…]()
-
+<img width="1068" height="649" alt="Screenshot From 2025-12-05 12-39-57" src="https://github.com/user-attachments/assets/666de84c-a47f-4701-9c38-352fb4786ad3" />
 
 ## 🎯 Features
 
